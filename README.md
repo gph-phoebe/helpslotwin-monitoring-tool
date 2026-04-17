@@ -2,7 +2,7 @@
 
 HelpSlotWin is a web-based slot jackpot monitor built to track visible jackpot meter values, store historical snapshots, and show changes in one simple dashboard. The point is not to act like a casino platform. It is there to help users monitor jackpot movement without checking pages manually over and over.
 
-Live Site: [https://helpslotwinhub.com/](https://helpslotwinhub.com/)
+Live Site: [HelpSlotWin download](https://helpslotwinhub.com/)
 
 ## What It Is For
 
